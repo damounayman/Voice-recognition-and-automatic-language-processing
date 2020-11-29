@@ -7,4 +7,4 @@ words using a **DTW**. The procedure for computing the **MFCC** acoustic feature
 detailed, and a database ofsingle-digit read in English 
 will allow the system’s performance evaluation.
 
-<img src="project 1/images/MFCC.png" width="500"> 
+<img src="project 1/images/MFCC.png" width="900"> 
